@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eeduardoliveira/)](https://www.instagram.com/eeduardoliveira/)
 
 ### Sobre Mim
-Sou Desenvolvedor Front-End na [@Propulsão Tech](https://www.instagram.com/propulsaotech) e estagiário de suporta  infraestrutura no Banco da Amazônia. Creio que sempre há algo novo para aprender. 
+Sou Desenvolvedor Front-End na [@Propulsão Tech](https://www.instagram.com/propulsaotech), Co-Fundador da [@Bag Marketing](https:www.instagram.com/bagmarketing) e estagiário de suporta  infraestrutura no Banco da Amazônia. Creio que sempre há algo novo para aprender. 
 
 Disponível para projetos! 
 
