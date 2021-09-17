@@ -4,5 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeduardoliveira/)](https://www.linkedin.com/in/eeduardoliveira/)
 
 ### Sobre Mim
-Sou Desenvolvedor Front-End na [@Propulsão Tech](https://www.instagram.com/propulsaotech) e estagiário de suporta  infraestrutura no Banco da Amazônia. 
+Sou Desenvolvedor Front-End na [@Propulsão Tech](https://www.instagram.com/propulsaotech) e estagiário de suporta  infraestrutura no Banco da Amazônia. Creio que sempre há algo novo para aprender. 
+
+Disponível para projetos! 
 
