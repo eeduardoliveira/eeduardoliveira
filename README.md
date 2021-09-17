@@ -10,4 +10,3 @@ Sou Desenvolvedor Front-End na [@Propulsão Tech](https://www.instagram.com/prop
 Disponível para projetos! 
 
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
