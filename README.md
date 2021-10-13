@@ -3,20 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/eeduardoliveira)](https://github.com/eeduardoliveira)
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eeduardoliveira/)](https://www.linkedin.com/in/eeduardoliveira/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eeduardoliveira/)](https://www.instagram.com/eeduardoliveira/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardo.ribeiro.oliveira23@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandodevs@gmail.com)](mailto:eduardo.ribeiro.oliveira23@gmail.com)
-
-### Sou um estudante em programação FullStack em São Luís - MA.
-
-- 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Microcity Computadores e Sistemas Ltda](http://microcity.com.br/) como Suporte em TI
-- 📖 &nbsp; Estudando e praticando sobre Backend Java e Python
-
-**💻 Experiências:**
- | Flutter 💙 | Java🧡 | Python💜 |Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
+[![Gmail Badge](https://img.shields.io/badge/-eduardo.ribeiro.oliveira23@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.ribeiro.oliveira23@gmail.com)](mailto:eduardo.ribeiro.oliveira23@gmail.com)
 
 
-## Github Stats ...
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nandodevs&count_private=true&show_icons=true&theme=onedark)
+
 
 
 ### Sobre Mim
