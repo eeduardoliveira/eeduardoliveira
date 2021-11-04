@@ -10,9 +10,9 @@
 
 
 ### Sobre Mim
-- CEO na [@Propulsão Tech](https://www.instagram.com/propulsaotech)
--  Head de Tecnologia da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
--   Estagiário de Suporte a Infraestrutura no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
+- Gestor do Projeto Universitário  [@Propulsão Tech](https://www.instagram.com/propulsaotech)
+-  Sócio da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
+-   Estagiário  no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
 ## Creio que sempre há algo novo para aprender. 
 
 Disponível para projetos! 
