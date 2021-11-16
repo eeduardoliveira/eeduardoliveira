@@ -11,7 +11,7 @@
 
 ### Sobre Mim
 - Gestor do Projeto Universitário  [@Propulsão Tech](https://www.instagram.com/propulsaotech)
--  Sócio da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
+-  CTO da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
 -   Estagiário  no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
 ## Creio que sempre há algo novo para aprender. 
 
