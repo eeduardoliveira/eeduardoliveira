@@ -25,3 +25,6 @@ Disponível para projetos!
 
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeduardoliveira&count_private=true&show_icons=true&theme=onedark)
+
+  ![Snake animation](https://github.com/eeduardoliveira/eeduardoliveira/blob/output/github-contribution-grid-snake.svg)
+
