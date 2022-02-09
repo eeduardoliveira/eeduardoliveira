@@ -10,7 +10,7 @@
 
 
 ### Sobre Mim
--  Co-Fundador e Diretor de Tecnologia da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
+-  Co-Fundador e Diretor de Tecnologia da [@Bag Marketing](https:www.bagmarketing.com.br/home.php) 
 -   Estagiário  no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
 ## Creio que sempre há algo novo para aprender. 
 
