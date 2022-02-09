@@ -10,12 +10,11 @@
 
 
 ### Sobre Mim
-- Gestor do Projeto Universitário  [@Propulsão Tech](https://www.instagram.com/propulsaotech)
--  CTO da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
+-  Co-Fundador e Diretor de Tecnologia da [@Bag Marketing](https:www.instagram.com/bagmarketing) 
 -   Estagiário  no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
 ## Creio que sempre há algo novo para aprender. 
 
-Disponível para projetos! 
+ - Disponível para projetos! 
 ### Habilidades
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
