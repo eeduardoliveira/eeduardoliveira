@@ -1,7 +1,7 @@
 # Seja Bem Vindo ao meu Mundo.
 
 ### Sobre Mim
--  Co-Fundador e Diretor da [@Bag Marketing](https:www.bagmarketing.com.br/home.php) 
+-  Co-Fundador e Diretor da [@Bag Marketing](https://www.bagmarketing.com.br/home.php) 
 -   Analista de Projeto e Back End Trainee no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
 ## Creio que sempre há algo novo para aprender. 
 
