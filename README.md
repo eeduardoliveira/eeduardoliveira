@@ -1,8 +1,10 @@
 # Seja Bem Vindo ao meu Mundo.
 
 ### Sobre Mim
--  Co-Fundador e Diretor da [@Bag Marketing](https://www.bagmarketing.com.br/home.php) 
--   Analista de Projeto e Back End Trainee no [@Banco da Amazônia](https://www.instagram.com/bancoamazonia). 
+- Engenheiro de Software Pleno na Cast Group 
+- Fullstack 
+- Java e Vuejs
+- React e React Native
 ## Creio que sempre há algo novo para aprender. 
 
  <h3 align="left">Entre em Contato comigo:</h3>
