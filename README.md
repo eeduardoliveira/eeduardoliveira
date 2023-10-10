@@ -1,9 +1,7 @@
 # Seja Bem Vindo ao meu Mundo.
 
 ### Sobre Mim
-- Engenheiro de Software Pleno na Cast Group 
-- Fullstack 
-- Java e Vuejs
+- Java Software Engineer
 - React e React Native
 ## Creio que sempre há algo novo para aprender. 
 
