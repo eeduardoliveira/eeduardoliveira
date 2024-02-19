@@ -3,6 +3,9 @@
 ### Sobre Mim
 - Java Software Engineer
 - React e React Native
+- Vue
+- Angular
+
 ## Creio que sempre há algo novo para aprender. 
 
  <h3 align="left">Entre em Contato comigo:</h3>
