@@ -1,10 +1,6 @@
 # Seja Bem Vindo ao meu Mundo.
 
 ### Sobre Mim
-- Java Software Engineer
-- React e React Native
-- Vue
-- Angular
 
 ## Creio que sempre há algo novo para aprender. 
 
