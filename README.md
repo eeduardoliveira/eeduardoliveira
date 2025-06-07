@@ -9,7 +9,7 @@
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeduardoliveira&count_private=true&show_icons=true&theme=onedark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeduardoliveira&show_icons=true&locale=en&layout=compact" alt="eeduardoliveira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeduardoliveira&show_icons=true" alt="eeduardoliveira" /></p>
 
 
 
